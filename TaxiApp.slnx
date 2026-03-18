@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TaxiApp.AuthService.API/TaxiApp.AuthService.API.csproj" />
+  <Project Path="TaxiApp.AuthService.Application/TaxiApp.AuthService.Application.csproj" />
+  <Project Path="TaxiApp.AuthService.Domain/TaxiApp.AuthService.Domain.csproj" />
+  <Project Path="TaxiApp.AuthService.Infrastructure/TaxiApp.AuthService.Infrastructure.csproj" />
+</Solution>
